@@ -3,7 +3,7 @@
 This is the traditional Hello World program. I wrote this to become more comfortable with the components of my development enviroment. Also, to be sure that git works.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uGm1mrzj18w)
 
 # Development Environment
 
@@ -12,6 +12,5 @@ This is the traditional Hello World program. I wrote this to become more comfort
 * Python
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [GitHub](https://github.com/)
